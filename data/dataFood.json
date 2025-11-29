@@ -1,0 +1,66 @@
+
+{
+    "data": [
+    {
+        "id": 0,
+        "bgColor": "#59080F",
+        "textColor": "#F294EC",
+        "title": "sushi",
+        "brand": "norimon",
+        "time": "15 min",
+        "img": {
+            "slug":"sushi",
+            "bgSlug": "sushi_bg",
+            "url": "require('../../assets/images/products/sushi_norimon.jpg')",
+            "alt": "sushi-norimon"
+        },
+        "price": 0.99,
+        "description": "Una explosión de sabor en cada bocado. Nuestro sushi combina ingredientes frescos, cortes precisos y el auténtico toque japonés que distingue a Norimon.n/Disfruta de rolls cuidadosamente elaborados con pescado de alta calidad, arroz sazonado a la perfección y un balance ideal de texturas.n/¡Haz tu pedido y deja que el sabor hable por si solo!"
+    }, {
+        "id": 1,
+        "bgColor": "#FE5E29",
+        "textColor": "#FFFFFF",
+        "title": "hot dog",
+        "brand": "lucho's",
+        "time": "15 min",
+        "img": {
+            "slug":"hotDog",
+            "bgSlug": "hot_dog_big",
+            "url": "require('../../assets/images/products/hot_dog.jpg')",
+            "alt": "hot-dog-luchos"
+        },
+        "price": 1.99,
+        "description": "Una explosión de sabor en cada bocado. Nuestro sushi combina ingredientes frescos, cortes precisos y el auténtico toque japonés que distingue a Norimon, Disfruta de rolls cuidadosamente elaborados con pescado de alta calidad, arroz sazonado a la perfección y un balance ideal de texturas. ¡Haz tu pedido y deja que el sabor hable por si solo!"
+    }, {
+        "id": 2,
+        "bgColor": "#FFD02E",
+        "textColor": "#025548",
+        "title": "cocktail",
+        "brand": "bielsko",
+        "time": "15 min",
+        "img": {
+            "slug":"cocktail",
+            "bgSlug": "cocktail_bg",
+            "url": "require('../../assets/images/products/cocktail.jpg')",
+            "alt": "cocktail-bielsko"
+        },
+        "price": 1.99,
+        "description": "Una explosión de sabor en cada bocado. Nuestro sushi combina ingredientes frescos, cortes precisos y el auténtico toque japonés que distingue a Norimon, Disfruta de rolls cuidadosamente elaborados con pescado de alta calidad, arroz sazonado a la perfección y un balance ideal de texturas. ¡Haz tu pedido y deja que el sabor hable por si solo!"
+    }, {
+        "id": 3,
+        "bgColor": "#131414",
+        "textColor": "#FFFFFF",
+        "title": "burger",
+        "brand": "norimon",
+        "time": "15 min",
+        "img": {
+            "slug":"burger",
+            "bgSlug": "burger_bg",
+            "url": "require('../../assets/images/products/burger.jpg')",
+            "alt": "burger-norimon"
+        },
+        "price": 1.99,
+        "description": "Una explosión de sabor en cada bocado. Nuestro sushi combina ingredientes frescos, cortes precisos y el auténtico toque japonés que distingue a Norimon, Disfruta de rolls cuidadosamente elaborados con pescado de alta calidad, arroz sazonado a la perfección y un balance ideal de texturas. ¡Haz tu pedido y deja que el sabor hable por si solo!"
+    }
+]
+}
